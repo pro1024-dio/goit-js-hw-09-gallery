@@ -1,2 +1,2 @@
 import './sass/main.scss';
-//import './partials/app.js';
+import './partials/app.js';
